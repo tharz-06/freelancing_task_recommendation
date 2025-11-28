@@ -87,3 +87,11 @@ Run the Streamlit app:
 - Pandas & NumPy (data handling)
 - Geopy (distance calculation)
 - Streamlit (interactive web interface)
+
+--- 
+## Author
+>Thaarani M
+>
+>Email: thaarani013@gmail.com
+>
+>GitHub: https://github.com/tharz-06
